@@ -56,7 +56,7 @@ class _LoteInfo extends StatelessWidget {
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               Container(
-                width: 80,
+                width: 81,
                 height: 80,
                 decoration: BoxDecoration(
                   color: const Color(0xff7c94b6),

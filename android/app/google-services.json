@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "546594312126",
+    "project_id": "sembe-6418a",
+    "storage_bucket": "sembe-6418a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546594312126:android:24ed86f10121a4e48db3ef",
+        "android_client_info": {
+          "package_name": "com.example.sembe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546594312126-7mk9qvdr48dhpumco5rs1bocuho6ov3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ35QknHa6yhIYrm0AH_2irmyGq8Nq9Zo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546594312126-7mk9qvdr48dhpumco5rs1bocuho6ov3n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
